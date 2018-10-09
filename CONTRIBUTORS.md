@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name:Himanshu Thanna
+Place:Delhi,India
+About:Computer Engineer
+Programming language:Java
+Email:himanshuthanna10@gmail.com
